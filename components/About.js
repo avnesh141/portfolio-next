@@ -91,7 +91,7 @@ const About = () => {
                   color: 'rgba(255,255,255,0.8)',
                   lineHeight: 1.8,
                 }}>
-                  With over 5 years of experience in web development, I've crafted digital solutions for startups and enterprises alike. My passion lies in creating intuitive, performant applications that deliver exceptional user experiences.
+                  With over 5 years of experience in web development, I&apos;ve crafted digital solutions for startups and enterprises alike. My passion lies in creating intuitive, performant applications that deliver exceptional user experiences.
                 </Typography>
                 <Box sx={{ mt: 3 }}>
                   {[1, 2, 3].map((item) => (

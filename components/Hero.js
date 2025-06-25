@@ -67,7 +67,7 @@ const Hero = ({ children }) => {
                     textShadow: '0 2px 10px rgba(0,0,0,0.3)',
                   }}
                 >
-                  Hi, I'm <Box component="span" sx={{ 
+                  Hi, I&apos;m <Box component="span" sx={{ 
                     display: 'inline-block',
                     background: 'linear-gradient(90deg, #21cbf3 0%, #2196f3 100%)',
                     WebkitBackgroundClip: 'text',
@@ -147,7 +147,7 @@ const Hero = ({ children }) => {
                   whileHover={{ y: -3 }}
                   whileTap={{ scale: 0.98 }}
                 >
-                  Let's Connect
+                  Let&apos;s Connect
                 </Button>
               </Box>
 

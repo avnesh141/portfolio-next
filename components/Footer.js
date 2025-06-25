@@ -67,7 +67,7 @@ const Footer = () => {
                   WebkitTextFillColor: 'transparent',
                 }}
               >
-                Let's Work Together
+                Let&apos;s Work Together
               </Typography>
               <Typography 
                 variant="body1" 
